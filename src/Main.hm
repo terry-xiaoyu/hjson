@@ -1,6 +1,6 @@
 module Main where
 
-import System.IO
+import Prelude
 
-main :: String
+main :: IO Unit
 main = print "Json demo"
